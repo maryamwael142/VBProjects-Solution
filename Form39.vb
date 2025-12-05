@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Form39
     Private Sub button1_click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim x, y As Integer
         x = InputBox("enter x", "x")
@@ -15,3 +15,4 @@
 
     End Sub
 End Class
+
